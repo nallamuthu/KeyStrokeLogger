@@ -1,0 +1,6 @@
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\bin\Debug\KeyStrokeLogger.exe.config
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\bin\Debug\KeyStrokeLogger.exe
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\bin\Debug\KeyStrokeLogger.pdb
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\obj\Debug\KeyStrokeLogger.csprojAssemblyReference.cache
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\obj\Debug\KeyStrokeLogger.exe
+C:\Users\nal2\Downloads\pywinrm-0.4.1.tar\KeyStrokeLogger\obj\Debug\KeyStrokeLogger.pdb
